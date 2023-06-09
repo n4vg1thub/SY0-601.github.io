@@ -9,21 +9,6 @@ var questions = [
     },
     // Add more questions here...
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ];
 
 var currentQuestionIndex = 0;
